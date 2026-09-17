@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://arthurgbat777-cyber.github.io/israel/sitemap.xml
